@@ -1,3 +1,3 @@
 Sample Project
 
-Sample Project for Git assignment
+Sample Project for Git assignment.
